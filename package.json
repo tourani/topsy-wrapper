@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Sanjay Tourani",
+    "email": "tourani@utexas.edu",
+    "url": "http://github.com/tourani"
+  },
+  "name": "topsy-wrapper",
+  "description": "Topsy Wrapper",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tourani/topsy-wrapper",
+  "issues": "https://github.com/tourani/topsy-wrapper/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tourani/topsy-wrapper-wrapper"
+  },
+  
+  "engines": {
+    "node": ">= v0.8.15"
+  },
+  "main": "lib/client.js",
+ "dependencies": {
+    "request": "~2.26.0"
+  },
+}
