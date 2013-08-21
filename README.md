@@ -11,7 +11,7 @@ To use the included example do the following:
 
 ****
 
-##Usage Examples
+##Usage/Sample Requests
 
     topsy.getAuthorInfo({"url": "http://twitter.com/justinbieber"}, function(error, result) {
         console.log(result);
