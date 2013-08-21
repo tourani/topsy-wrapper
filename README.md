@@ -29,50 +29,19 @@ To use the included example do the following:
         console.log(result);
     });
 
-    topsy.getPopularTrackbacks({"url": "http://www.cnn.com}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getSearch({"q": "Elon Musk"}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getSearchCount({"q": "Elon Musk"}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getSearchHistogram({"q": "iphone"}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getSearchDate({"q": "Elon Musk"}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getStats({"url": "http://instagram.com}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getTags({"url": "http://instagram.com"}, function(error, result) {
-        console.log(result);
-    });
-
     topsy.getTop({"thresh": "top100"}, function(error, result) {
         console.log(result);
     });
-
-    topsy.getTrackbacks({"url": "http://apple.com"}, function(error, result) {
-        console.log(result);
-    });
-
-    topsy.getTrending({}, function(error, result) {
-        console.log(result);
-    });
-
+ 
     topsy.getUrlInfo({"url": "http://apple.com"}, function(error, result) {
         console.log(result);
     });
 
+****
+
+##Documentation
+
+Check out Topsy API documentation (https://code.google.com/p/otterapi/wiki/Resources) for a list of all the possible requests
 
 ****
 
