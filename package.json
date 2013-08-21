@@ -20,5 +20,5 @@
   "main": "lib/client.js",
  "dependencies": {
     "request": "~2.26.0"
-  },
+  }
 }
