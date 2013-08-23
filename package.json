@@ -11,7 +11,7 @@
   "issues": "https://github.com/tourani/topsy-wrapper/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tourani/topsy-wrapper-wrapper"
+    "url": "git://github.com/tourani/topsy-wrapper"
   },
   
   "engines": {
